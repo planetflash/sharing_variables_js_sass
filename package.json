@@ -8,6 +8,7 @@
     "url": "https://github.com/planetflash/sharing_variables_js_sass"
   },
   "scripts": {
+    "build": "webpack",
     "start": "webpack-dev-server"
   },
   "devDependencies": {
