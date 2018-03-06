@@ -1,0 +1,24 @@
+@import "../variables";
+
+.article {
+  width: $spacing * 50;
+  padding: $spacing;
+  margin: $spacing 0;
+  font-family: map-get($typography, font);
+  font-size: map-get($typography, text);
+  border: 1px solid map-get($colors, secondary);
+
+  h1 {
+    margin: $spacing 0 ($spacing * 2);
+    font-size: map-get($typography, title);
+  }
+
+  p {
+    color: map-get($colors, secondary);
+    margin: $spacing 0;
+  }
+
+  a {
+    color: map-get($colors, primary);
+  }
+}

@@ -1,11 +1,11 @@
 {
-  "name": "sharing_veriables_js_sass",
+  "name": "sharing_variables_js_sass",
   "description": "send unread pocket articles to kindle",
   "author": "Paul Thomas",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/planetflash/sharing_veriables_js_sass"
+    "url": "https://github.com/planetflash/sharing_variables_js_sass"
   },
   "scripts": {
     "start": "webpack-dev-server"
