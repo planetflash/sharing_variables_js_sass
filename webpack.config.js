@@ -39,11 +39,8 @@ const convertStringToSassDimension = function(result) {
 
 module.exports = {
   mode: "development",
-  entry: "./src/index.js",
   output: {
-    path: __dirname + "/",
-    publicPath: "/",
-    filename: "bundle.js"
+    path: __dirname
   },
   module: {
     rules: [
