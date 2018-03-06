@@ -41,8 +41,8 @@ module.exports = {
   mode: "development",
   entry: "./src/index.js",
   output: {
-    path: __dirname + "/dist",
-    publicPath: "/dist/",
+    path: __dirname + "/",
+    publicPath: "/",
     filename: "bundle.js"
   },
   module: {
