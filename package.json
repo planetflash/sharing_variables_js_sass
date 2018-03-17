@@ -1,6 +1,7 @@
 {
   "name": "sharing_variables_js_sass",
-  "description": "send unread pocket articles to kindle",
+  "description":
+    "Sharing variables between JS and Sass using webpack sass-loader",
   "author": "Paul Thomas",
   "license": "MIT",
   "repository": {
