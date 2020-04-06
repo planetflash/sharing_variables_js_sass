@@ -1,7 +1,6 @@
 {
   "name": "sharing_variables_js_sass",
-  "description":
-    "Sharing variables between JS and Sass using webpack sass-loader",
+  "description": "Sharing variables between JS and Sass using webpack sass-loader",
   "author": "Paul Thomas",
   "license": "MIT",
   "repository": {
@@ -13,14 +12,14 @@
     "start": "webpack-dev-server"
   },
   "devDependencies": {
-    "css-loader": "^0.28.10",
-    "html-webpack-plugin": "^3.0.4",
-    "node-sass": "^4.7.2",
-    "node-sass-utils": "^1.1.2",
-    "sass-loader": "^6.0.7",
-    "style-loader": "^0.20.2",
-    "webpack": "^4.1.0",
-    "webpack-cli": "^2.0.10",
-    "webpack-dev-server": "^3.1.0"
+    "css-loader": "^3.4.2",
+    "html-webpack-plugin": "^4.0.4",
+    "node-sass": "^4.13.1",
+    "node-sass-utils": "^1.1.3",
+    "sass-loader": "^8.0.2",
+    "style-loader": "^1.1.3",
+    "webpack": "^4.42.1",
+    "webpack-cli": "^3.3.11",
+    "webpack-dev-server": "^3.10.3"
   }
 }
